@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(44, 44, 44);
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  display: grid;
+  place-items: center;
+  height: 80vh;
+}
